@@ -1,6 +1,6 @@
 {
   "name": "phone-scan-poc",
-  "app_id": "",
+  "app_id": "86cfa7fe",
   "gulpStartupTasks": [
     "sass",
     "watch"
